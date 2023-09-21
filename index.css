@@ -1,0 +1,39 @@
+strong{
+    color: rgb(249, 89, 89);
+}
+#text{
+color: rgb(241, 30, 65);
+}
+#show2{
+border-style: hidden;
+padding: 10px 20px 30px 40px;
+/* box-shadow: 10px 5px 5px red; */
+}
+select {
+padding: 1px 20px 3px 20px;
+font-size: 16px;
+border: 1px solid #ccc;
+border-radius: 3px;
+background-color: #fff;
+color: #333;
+width: 300px;
+}
+
+
+select option {
+padding: 8px;
+} 
+
+select:hover {
+border-color: #66afe9;
+} 
+
+
+select:focus {
+border-color: #5bc0de;
+box-shadow: 0 0 5px rgba(91, 192, 222, 0.5);
+}  
+
+img{
+    width: 100%;
+}
